@@ -1,0 +1,43 @@
+_repo: The-Extant-Odes-of-Pindar--13-Translated-with-Introduction-and-Short-Notes-by-Ernest-Myers_10717
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Myers, Ernest
+    birthdate: 1844
+    deathdate: 1921
+    gutenberg_agent_id: '26680'
+    url: http://www.gutenberg.org/2009/agents/26680
+creator:
+  author:
+    agent_name: Pindar
+    aliases:
+    - Pindaro
+    - Pindarus
+    - Πίνδαρος
+    - Pindare
+    birthdate: -522
+    deathdate: -446
+    gutenberg_agent_id: '3650'
+    url: http://www.gutenberg.org/2009/agents/3650
+    wikipedia: http://en.wikipedia.org/wiki/Pindar
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10717'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pindar -- Translations into English'
+- !lcsh 'Games -- Greece -- Poetry'
+- !lcsh 'Laudatory poetry, Greek -- Translations into English'
+- !lcsh 'Athletics -- Greece -- Poetry'
+- !lcc 'PA'
+- !lcsh 'Mythology, Greek -- Poetry'
+- !lcsh 'Olympic games (Ancient) -- Poetry'
+- GITenberg
+title: "The Extant Odes of Pindar\r\nTranslated with Introduction and Short Notes\
+  \ by Ernest Myers"
+url: http://www.gutenberg.org/ebooks/10717
